@@ -1,0 +1,2 @@
+
+ Com metodo criado e possivel atualizar o texto sem apagar anterior.

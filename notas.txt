@@ -1,0 +1,5 @@
+Eduardo: 7, 8, 8, 7
+Elisa: 10, 6, 8, 5
+Isis: 10, 9, 8, 6
+Louise: 10, 9, 8, 8
+Debora: 10, 9, 8, 5
